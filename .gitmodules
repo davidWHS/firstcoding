@@ -1,0 +1,3 @@
+[submodule "firstcoding/freshman"]
+	path = firstcoding/freshman
+	url = https://github.com/davidWHS/firstcoding/freshman.git
